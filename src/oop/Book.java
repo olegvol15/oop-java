@@ -68,11 +68,6 @@ public class Book {
         System.out.println("Pages: " + pages);
     }
 
-    public static void main(String[] args) {
-        Book book = new Book();
-        book.inputData();
-        book.printInfo();
-    }
 }
 
 
